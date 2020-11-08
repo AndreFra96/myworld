@@ -1,0 +1,3 @@
+terremoto@paura 3,forza -20,coraggio -50,intelligenza -10
+tornado@paura -2,forza -20,coraggio -20,intelligenza -10
+guerra@paura -10,forza -40,coraggio -15,intelligenza -50
